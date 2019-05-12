@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello Hexo]]></title>
+    <url>%2F2019%2F05%2F11%2FHello-Hexo%2F</url>
+    <content type="text"><![CDATA[Hello Hexo经过两周的学习（一周是起名困难症犯了），终于是在今天把这个博客给弄好了，写个第一个博客肯定是要先来介绍一下Hexo. Hexo框架Hexo是一个简洁高效的博客框架，基于Node.js，性能毋庸置疑，支持Markdown,有丰富的插件，快速部署等优势，总而言之就是想搭建个人博客，又怕麻烦的用Hexo准没错（虽然Hexo也是有不少坑），配合Github Pages更是能省去你买域名，服务器的步骤，轻松拥有自己的博客。 搭建博客 安装Node.js，npm 安装Hexo 找一个喜欢的主题（也可以自己写） 写文章 部署（例如Github Pages） 以上只是概括一下使用Hexo的大致流程，详细的可以去网上找 最后的其实搭建的这个博客的目的很简单，主要是为了以博客的形式记录学到知识，我自己也不是很清楚会不会有人看我的博客（笑），但如果以后有人看了我的博客，并找到了自己想要的内容，那我也算是做了一件好事了,那这第一篇博客的内容也差不多了,谢谢观看.]]></content>
+      <categories>
+        <category>Hexo - Hello Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+</search>
